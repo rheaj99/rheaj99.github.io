@@ -14,7 +14,7 @@ Before joining UIUC, I received my B.S. in Computer Science and Mathematics from
 # Research
 
 ### Augmentation based Approximation Algorithms for Flexible Network Design [[arXiv](https://arxiv.org/abs/2209.12273)]
-with Chandra Chekuri
+_with Chandra Chekuri_
 
 <!-- ##### Improving Greedy Algorithms for the Steiner Forest Problem
 advised by Anupam Gupta
