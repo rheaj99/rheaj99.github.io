@@ -11,9 +11,9 @@ Hi! I'm a 2nd year PhD student at the University of Illinois at Urbana Champaign
 
 Before joining UIUC, I received my B.S. in Computer Science and Mathematics from Carnegie Mellon University, where I was lucky to be advised by [Anupam Gupta](http://www.cs.cmu.edu/~anupamg/) on my senior thesis.
 
-## Research
+# Research
 
-##### Augmentation based Approximation Algorithms for Flexible Network Design [[arXiv](https://arxiv.org/abs/2209.12273)]
+### Augmentation based Approximation Algorithms for Flexible Network Design [[arXiv](https://arxiv.org/abs/2209.12273)]
 with Chandra Chekuri
 
 <!-- ##### Improving Greedy Algorithms for the Steiner Forest Problem
