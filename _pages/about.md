@@ -14,12 +14,12 @@ Before joining UIUC, I received my B.S. in Computer Science and Mathematics from
 # Research
 
 ### Augmentation based Approximation Algorithms for Flexible Network Design [[arXiv](https://arxiv.org/abs/2209.12273)]
-_Submitted to IPCO 2023_
-with Chandra Chekuri
+_Submitted to IPCO 2023_ \
+with Chandra Chekuri 
 
 
 ### Approximating Flexible Graph Connectivity via Räcke Tree based Rounding [[arXiv](https://arxiv.org/abs/2211.08324)]
-_Submitted to IPCO 2023_
+_Submitted to IPCO 2023_ \
 with Chandra Chekuri
 
 <!-- ##### Improving Greedy Algorithms for the Steiner Forest Problem
