@@ -17,14 +17,11 @@ Email: \[firstname\]j3 at illinois dot edu
 
 # Research
 
-### Augmentation based Approximation Algorithms for Flexible Network Design [[arXiv](https://arxiv.org/abs/2209.12273)]
+### Approximation Algorithms for Network Design in Non-Uniform Fault Models [[pdf](https://drops.dagstuhl.de/opus/volltexte/2023/18088/pdf/LIPIcs-ICALP-2023-36.pdf)]
 with Chandra Chekuri \
-_Submitted_ 
+_ICALP 2023_ \
+Older versions: [[Augmentation based Approximation Algorithms for Flexible Network Design](https://arxiv.org/abs/2209.12273)], [[Approximating Flexible Graph Connectivity via Räcke Tree based Rounding](https://arxiv.org/abs/2211.08324)]
 
-
-### Approximating Flexible Graph Connectivity via Räcke Tree based Rounding [[arXiv](https://arxiv.org/abs/2211.08324)]
-with Chandra Chekuri \
-_Submitted_
 
 <!-- ##### Improving Greedy Algorithms for the Steiner Forest Problem
 advised by Anupam Gupta
