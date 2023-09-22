@@ -11,6 +11,10 @@ Hi! I'm a 2nd year PhD student at the University of Illinois at Urbana Champaign
 
 Before joining UIUC, I received my B.S. in Computer Science and Mathematics from Carnegie Mellon University, where I was lucky to be advised by [Anupam Gupta](http://www.cs.cmu.edu/~anupamg/) on my senior thesis.
 
+### Contact info:
+
+Email: \[firstname\]j3 at illinois dot edu
+
 # Research
 
 ### Augmentation based Approximation Algorithms for Flexible Network Design [[arXiv](https://arxiv.org/abs/2209.12273)]
