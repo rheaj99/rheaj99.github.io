@@ -13,14 +13,14 @@ Before joining UIUC, I received my B.S. in Computer Science and Mathematics from
 
 ### Contact info:
 
-Email: \[firstname\]j3 at illinois dot edu
+Email: rheaj3 at illinois dot edu
 
 # Research
 
-### Approximation Algorithms for Network Design in Non-Uniform Fault Models [[pdf](https://drops.dagstuhl.de/opus/volltexte/2023/18088/pdf/LIPIcs-ICALP-2023-36.pdf)]
+### [[Approximation Algorithms for Network Design in Non-Uniform Fault Models] (https://drops.dagstuhl.de/opus/volltexte/2023/18088/pdf/LIPIcs-ICALP-2023-36.pdf)]
 with Chandra Chekuri \
 _ICALP 2023_ \
-Older versions: [[Augmentation based Approximation Algorithms for Flexible Network Design](https://arxiv.org/abs/2209.12273)], [[Approximating Flexible Graph Connectivity via Räcke Tree based Rounding](https://arxiv.org/abs/2211.08324)]
+Earlier versions: [[Augmentation based Approximation Algorithms for Flexible Network Design](https://arxiv.org/abs/2209.12273)], [[Approximating Flexible Graph Connectivity via Räcke Tree based Rounding](https://arxiv.org/abs/2211.08324)]
 
 
 <!-- ##### Improving Greedy Algorithms for the Steiner Forest Problem
