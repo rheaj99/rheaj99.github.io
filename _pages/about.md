@@ -17,12 +17,12 @@ Email: rheaj3 at illinois dot edu
 
 # Research
 
-### Approximation Algorithms for Network Design in Non-Uniform Fault Models [[ICALP](https://drops.dagstuhl.de/opus/volltexte/2023/18088/pdf/LIPIcs-ICALP-2023-36.pdf)][[arXiv Full Version](https://arxiv.org/abs/2403.15547)]
+### Approximation Algorithms for Network Design in Non-Uniform Fault Models [[ICALP](https://drops.dagstuhl.de/opus/volltexte/2023/18088/pdf/LIPIcs-ICALP-2023-36.pdf)][[arXiv Full Version](https://arxiv.org/pdf/2403.15547)]
 with Chandra Chekuri \
 _ICALP 2023_ \
-Earlier versions: [[Augmentation based Approximation Algorithms for Flexible Network Design](https://arxiv.org/abs/2209.12273)], [[Approximating Flexible Graph Connectivity via Räcke Tree based Rounding](https://arxiv.org/abs/2211.08324)]
+Earlier versions: [[Augmentation based Approximation Algorithms for Flexible Network Design](https://arxiv.org/pdf/2209.12273)], [[Approximating Flexible Graph Connectivity via Räcke Tree based Rounding](https://arxiv.org/pdf/2211.08324)]
 
-### Approximation Algorithms for Hop Constrained and Buy-at-Bulk Network Design via Hop Constrained Oblivious Routing[[pre-print](https://arxiv.org/abs/2404.16725)]
+### Approximation Algorithms for Hop Constrained and Buy-at-Bulk Network Design via Hop Constrained Oblivious Routing[[pre-print](https://arxiv.org/pdf/2404.16725)]
 with Chandra Chekuri \
 _In submission_ 
 
