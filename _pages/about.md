@@ -22,7 +22,7 @@ with Chandra Chekuri \
 _ICALP 2023_ \
 Earlier versions: [[Augmentation based Approximation Algorithms for Flexible Network Design](https://arxiv.org/pdf/2209.12273)], [[Approximating Flexible Graph Connectivity via Räcke Tree based Rounding](https://arxiv.org/pdf/2211.08324)]
 
-### Approximation Algorithms for Hop Constrained and Buy-at-Bulk Network Design via Hop Constrained Oblivious Routing[[pre-print](https://arxiv.org/pdf/2404.16725)]
+### Approximation Algorithms for Hop Constrained and Buy-at-Bulk Network Design via Hop Constrained Oblivious Routing [[pre-print](https://arxiv.org/pdf/2404.16725)]
 with Chandra Chekuri \
 _In submission_ 
 
