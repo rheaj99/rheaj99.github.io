@@ -15,7 +15,7 @@ Before joining UIUC, I received my B.S. in Computer Science and Mathematics from
 
 Email: rheaj3 at illinois dot edu
 
-# Research
+# Publications/Manuscripts
 
 ### From Directed Steiner Tree to Directed Polymatroid Steiner Tree in Planar Graphs [[arXiv](https://arxiv.org/abs/2407.01904)]
 with Chandra Chekuri, Shubhang Kulkarni, Da Wei Zheng, Weihao Zhu \
