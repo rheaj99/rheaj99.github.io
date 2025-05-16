@@ -17,9 +17,13 @@ Email: rheaj3 at illinois dot edu
 
 # My Papers
 
-### A Polylogarithmic Approximation for Directed Steiner Forest in Planar Digraphs [[arXiv](https://arxiv.org/abs/2410.17403)]
+### Streaming Algorithms for Network Design [[arXiv](https://arxiv.org/abs/2503.00712)]
+with Chandra Chekuri, Sepideh Mahabadi, Ali Vakilian \
+_in submission_
+
+### A Polylogarithmic Approximation for Directed Steiner Forest in Planar Digraphs [[SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611978322.67)][[arXiv](https://arxiv.org/abs/2410.17403)]
 with Chandra Chekuri \
-_to appear in SODA 2025_
+_SODA 2025_
 
 ### From Directed Steiner Tree to Directed Polymatroid Steiner Tree in Planar Graphs [[ESA](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.42)][[arXiv](https://arxiv.org/abs/2407.01904)]
 with Chandra Chekuri, Shubhang Kulkarni, Da Wei Zheng, Weihao Zhu \
