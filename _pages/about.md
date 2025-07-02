@@ -19,7 +19,7 @@ Email: rheaj3 at illinois dot edu
 
 ### Streaming Algorithms for Network Design [[arXiv](https://arxiv.org/abs/2503.00712)]
 with Chandra Chekuri, Sepideh Mahabadi, Ali Vakilian \
-_in submission_
+_APPROX 2025_
 
 ### A Polylogarithmic Approximation for Directed Steiner Forest in Planar Digraphs [[SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611978322.67)][[arXiv](https://arxiv.org/abs/2410.17403)]
 with Chandra Chekuri \
