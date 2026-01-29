@@ -19,6 +19,9 @@ Email: rheaj3 at illinois dot edu
 
 # My Papers
 
+### Node-Weighted Multicut in Planar Digraphs [[arXiv](https://arxiv.org/abs/2601.20038)]
+with Chandra Chekuri
+
 ### Streaming Algorithms for Network Design [[APPROX](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2025.4)] [[arXiv](https://arxiv.org/abs/2503.00712)]
 with Chandra Chekuri, Sepideh Mahabadi, Ali Vakilian \
 _APPROX 2025_
