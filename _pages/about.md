@@ -45,7 +45,7 @@ _with Chandra Chekuri_ \
 ### Exponential Time Approximation for Coloring 3-Colorable Graphs [[arXiv](https://arxiv.org/abs/2406.15563)]
 _with Venkatesan Guruswami_
 
-### Approximation Algorithms for Network Design in Non-Uniform Fault Models [[arXiv Full Version](https://arxiv.org/abs/2403.15547)]
+### Approximation Algorithms for Network Design in Non-Uniform Fault Models [[arXiv](https://arxiv.org/abs/2403.15547)]
 _with Chandra Chekuri_ \
 [Mathematical Programming Series A, Oct 2025](https://link.springer.com/article/10.1007/s10107-025-02298-x). Initial version at [ICALP 2023](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2023.36), which combined results from two earlier manuscripts: 
 - [Augmentation based Approximation Algorithms for Flexible Network Design](https://arxiv.org/abs/2209.12273)
