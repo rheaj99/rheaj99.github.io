@@ -9,6 +9,7 @@ I have been a teaching assistant for the following courses:
 
 ### University of Illinois at Urbana Champaign
 
+  * CS574: Randomized Algorithms (Fall 25)
   * CS374: Algorithms and Models of Computation (Fall 22, Spring 22, Spring 24)
       * _On List of Teachers Marked as Excellent by Students in Spring 22 and 24_
 
