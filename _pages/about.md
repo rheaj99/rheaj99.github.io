@@ -52,5 +52,5 @@ _with Chandra Chekuri_ \
 - [Approximating Flexible Graph Connectivity via Räcke Tree based Rounding](https://arxiv.org/abs/2211.08324)
 
 ### Improving Greedy Algorithms for the Steiner Forest Problem
-_advised by Anupam Gupta_
+_advised by Anupam Gupta_ \
 Undergraduate Senior Thesis
