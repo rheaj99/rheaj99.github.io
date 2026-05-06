@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a 5th year PhD student at the University of Illinois at Urbana Champaign, where I'm fortunate to be advised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/). My research is in theoretical computer science; more specifically, I'm interested in approximation algorithms and network design. 
+Hi! I'm a 5th and final year PhD student at the University of Illinois at Urbana Champaign, where I'm fortunate to be advised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/). My research is in theoretical computer science; more specifically, I'm interested in approximation algorithms and network design. 
 
 Before joining UIUC, I received my B.S. in Computer Science and Mathematics from Carnegie Mellon University, where I was advised by [Anupam Gupta](http://www.cs.cmu.edu/~anupamg/) on my senior thesis.
 
-_I am currently on the postdoc job market!_
+_I will be joining CMU Tepper as a postdoc this summer!_
 
 ### Contact info:
 
