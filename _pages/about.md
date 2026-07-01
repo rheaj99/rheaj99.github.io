@@ -19,9 +19,13 @@ Email: rheaj3 at illinois dot edu
 
 # My Papers
 
+### Length-Constrained Netowrk Design in Planar Digraphs
+_with Chandra Chekuri_ \
+to appear in APPROX 2026
+
 ### A Polylogarithmic Approximation for Buy-at-Bulk Network Design with Protection
 _with Chandra Chekuri_ \
-to appear in STOC 2026
+[STOC 2026](https://dl.acm.org/doi/10.1145/3798129.3800925)
 
 ### Node-Weighted Multicut in Planar Digraphs [[arXiv](https://arxiv.org/abs/2601.20038)]
 _with Chandra Chekuri_ 
