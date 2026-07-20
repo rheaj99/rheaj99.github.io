@@ -7,15 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a 5th and final year PhD student at the University of Illinois at Urbana Champaign, where I'm fortunate to be advised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/). My research is in theoretical computer science; more specifically, I'm interested in approximation algorithms and network design. 
+I am a postdoctoral fellow at Carnegie Mellon University hosted by Prof. Ravi. Prior to this, I completed my PhD at the University of Illinois at Urbana Champaign, where I was fortunate to be advised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/). 
 
-Before joining UIUC, I received my B.S. in Computer Science and Mathematics from Carnegie Mellon University, where I was advised by [Anupam Gupta](http://www.cs.cmu.edu/~anupamg/) on my senior thesis.
-
-_I will be joining CMU Tepper as a postdoc this summer!_
+My research is in theoretical computer science. I am broadly interested in algorithm design and combinatorial optimization, with a focus on approximation algorithms, graph theory, and network design. 
 
 ### Contact info:
 
-Email: rheaj3 at illinois dot edu
+Email: rheaj at andrew dot cmu dot edu
 
 # My Papers
 
