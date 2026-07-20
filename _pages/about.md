@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral fellow at Carnegie Mellon University hosted by [Ravi](https://www.contrib.andrew.cmu.edu/~ravi/). Prior to this, I completed my PhD at the University of Illinois at Urbana Champaign, where I was fortunate to be advised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/). 
+I am a postdoctoral fellow at Carnegie Mellon University hosted by [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/). Prior to this, I completed my PhD at the University of Illinois at Urbana Champaign, where I was fortunate to be advised by [Chandra Chekuri](https://chekuri.cs.illinois.edu/). 
 
 My research is in theoretical computer science. I am broadly interested in algorithm design and combinatorial optimization, with a focus on approximation algorithms, graph theory, and network design. 
 
