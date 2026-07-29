@@ -17,7 +17,7 @@ Email: rheaj at andrew dot cmu dot edu
 
 # My Papers
 
-### Length-Constrained Network Design in Planar Digraphs
+### Length-Constrained Network Design in Planar Digraphs [[arXiv](https://arxiv.org/abs/2607.25811)]
 _with Chandra Chekuri_ \
 to appear in APPROX 2026
 
