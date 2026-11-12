@@ -17,9 +17,13 @@ Email: rheaj at andrew dot cmu dot edu
 
 # My Papers
 
+### Polylog Pairwise Poise: Approximating Multicommodity Multicast
+_with Aidin Niaparast, R. Ravi
+In submission
+
 ### Length-Constrained Network Design in Planar Digraphs [[arXiv](https://arxiv.org/abs/2607.25811)]
 _with Chandra Chekuri_ \
-to appear in APPROX 2026
+[APPROX 2026](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2026.15)
 
 ### A Polylogarithmic Approximation for Buy-at-Bulk Network Design with Protection
 _with Chandra Chekuri_ \
