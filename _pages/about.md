@@ -18,7 +18,7 @@ Email: rheaj at andrew dot cmu dot edu
 # My Papers
 
 ### Polylog Pairwise Poise: Approximating Multicommodity Multicast
-_with Aidin Niaparast, R. Ravi
+_with Aidin Niaparast, R. Ravi_ \
 In submission
 
 ### Length-Constrained Network Design in Planar Digraphs [[arXiv](https://arxiv.org/abs/2607.25811)]
