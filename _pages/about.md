@@ -17,6 +17,10 @@ Email: rheaj at andrew dot cmu dot edu
 
 # My Papers
 
+### A Little Length Slack Goes a Long Way in Planar Length-Constrained Network Design [[arXiv](https://arxiv.org/abs/2611.17201)]
+_with D Ellis Hershkowitz, Richard Z Huang, Manas Korimilli_ \
+In submission
+
 ### Polylog Pairwise Poise: Approximating Multicommodity Multicast
 _with Aidin Niaparast, R. Ravi_ \
 In submission
